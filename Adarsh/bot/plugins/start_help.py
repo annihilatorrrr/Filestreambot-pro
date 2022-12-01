@@ -18,7 +18,7 @@ if MY_PASS:
             [
                 ["start⚡️","help📚","login🔑","DC"],
                 ["follow❤️","ping📡","status📊","maintainers😎"]
-                        
+
             ],
             resize_keyboard=True
         )
@@ -27,7 +27,7 @@ else:
             [
                 ["start⚡️","help📚","DC"],
                 ["follow❤️","ping📡","status📊","maintainers😎"]
-                        
+
             ],
             resize_keyboard=True
         )
